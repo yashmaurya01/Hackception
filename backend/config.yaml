@@ -1,0 +1,9 @@
+number_of_participants: 9
+team_size: 3
+participant_pool: 'undergrads'
+hackathon_theme: 'Environmental Sustainability'
+judging_criteria:
+  - 'Innovation'
+  - 'Feasibility'
+  - 'Presentation'
+update_rounds: 2
